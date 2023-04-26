@@ -1,0 +1,19 @@
+{
+    "name": "统一登录",
+    "id": "ssosdk",
+    "version": "1.0.0",
+    "description": "统一登录",
+    "_dp_type":"nativeplugin",
+    "_dp_nativeplugin":{
+        "android": {
+            "plugins": [
+                {
+                    "type": "module",
+                    "name": "ssosdk",
+                    "class": "com.example.mylibrary.Mylibrarymoudle"
+                }
+            ],
+            "integrateType": "aar"
+        }
+    }
+}

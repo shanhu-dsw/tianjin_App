@@ -1,0 +1,18 @@
+export const lang = {
+	waiting: '待确认',
+	correcting: '已确认',
+	corrected: '已反馈',
+	negated: '无效问题',
+	reviewing: '上级审核',
+	vision: '智能预警',
+	search: '极速巡查',
+	field: '现场督察',
+	manual: '手动创建',
+	other: '其它问题',
+	location0: '省份',
+	location1: '地级市',
+	location2: '县区',
+	location3: '单位',
+	location4: '房间',
+	Admin: "用户",
+}
